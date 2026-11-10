@@ -1,0 +1,3 @@
+2;Ion;POPescu
+6;Mih  ai;Ionescu
+8;Mateu;Pal

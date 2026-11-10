@@ -1,0 +1,7 @@
+1;Sara;Olaru
+2;Sebastian;Martin
+3;Alex;Hoinda
+4;George;Pal
+5;Horatiu;Andri
+6;Alin;Sorau
+7;Grigore;Pantof
